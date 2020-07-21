@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariane Mateus.</h1>
-<h3 align="center">I'm a Full Stack Javascript developer.</h3>
+<h3 align="center">Full Stack Javascript developer.</h3>
 
 
 

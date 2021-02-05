@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ariane Mateus.</h1>
-<h3 align="center">Full Stack Javascript developer.</h3>
+<h3 align="center">Mobile Developer</h3>
 
 
 
-- 🔭 I’m currently working on JavaScript, TypeScript, NodeJS, ReactJS and ReactNative.
+- 🔭 I’m currently working on JavaScript, TypeScript, React Native and Swift.
 - 🌱 I’m currently learning: DevOps and tests.
 - 💬 Ask me about: Tech and cook.
 - 📫 How to reach me **ariane.ccomp@gmail.com** 
